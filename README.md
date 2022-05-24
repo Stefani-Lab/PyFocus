@@ -14,4 +14,9 @@ For a quick windows executable program, download and run "PyFocus.exe"
 
 See the full documentation and installation tutorial at: https://pyfocus.readthedocs.io/en/latest/
 
+If you publish results using PyFocus, please cite the following publication
 
+FernandoCaprile, Luciano A.Masullo, Fernando D.Stefani
+Computer Physics Communications 275 (2022) 108315
+PyFocus – A Python package for vectorial calculations of focused optical fields under realistic conditions. Application to toroidal foci☆,☆☆
+https://doi.org/10.1016/j.cpc.2022.108315
