@@ -12,7 +12,7 @@ You can find detailed information about the theorical calculations used in this 
 
 FernandoCaprile, Luciano A.Masullo, Fernando D.Stefani
 Computer Physics Communications 275 (2022) 108315
-PyFocus – A Python package for vectorial calculations of focused optical fields under realistic conditions. Application to toroidal foci☆,☆☆
+PyFocus – A Python package for vectorial calculations of focused optical fields under realistic conditions. Application to toroidal foci.
 https://doi.org/10.1016/j.cpc.2022.108315
 
 
