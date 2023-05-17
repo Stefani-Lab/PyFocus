@@ -23,8 +23,8 @@ beta=0
 z=0
 x_steps=2
 z_steps=5
-x_range=800
-z_range=1500
+x_range=400
+z_range=600
 figure_name='Example'
 
 L=''
